@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "barline"
+    },
+    {
+      "id": 1,
+      "name": "comma_1_down"
+    },
+    {
+      "id": 2,
+      "name": "comma_4_down"
+    },
+    {
+      "id": 3,
+      "name": "comma_4_up"
+    },
+    {
+      "id": 4,
+      "name": "natural"
+    },
+    {
+      "id": 5,
+      "name": "notehead_empty"
+    },
+    {
+      "id": 6,
+      "name": "notehead_filled"
+    },
+    {
+      "id": 7,
+      "name": "rest"
+    },
+    {
+      "id": 8,
+      "name": "treble_clef"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

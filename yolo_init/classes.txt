@@ -1,0 +1,9 @@
+barline
+comma_1_down
+comma_4_down
+comma_4_up
+natural
+notehead_empty
+notehead_filled
+rest
+treble_clef

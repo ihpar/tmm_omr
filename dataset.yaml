@@ -1,0 +1,15 @@
+path: yolo_init
+
+train: images
+val: images
+
+names:
+  0: barline
+  1: comma_1_down
+  2: comma_4_down
+  3: comma_4_up
+  4: natural
+  5: notehead_empty
+  6: notehead_filled
+  7: rest
+  8: treble_clef
