@@ -1,2 +1,8 @@
 .DS_Store
 **/.DS_Store
+.lightning_studio
+.cursor-server
+.windsurf-server
+.vscode/settings.json
+.idea/this_studio.iml
+.vscode-server

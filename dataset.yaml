@@ -1,4 +1,4 @@
-path: yolo_init
+path: yolo_tiled
 
 train: images
 val: images
